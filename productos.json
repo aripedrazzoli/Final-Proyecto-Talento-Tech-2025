@@ -25,7 +25,7 @@
     "name": "Bolsa Kraft",
     "description": "Bolsa Delivery Kraft - Pack x 50 unidades",
     "price": 26800.00,
-    "image": "images/bolsa kraft.png"
+    "image": "images/bolsa_kraft.png"
   },
   {
     "id": "5",
@@ -39,6 +39,6 @@
     "name": "Bandeja Desayuno",
     "description": "Bandeja para desayuno - pack x 25 unidades",
     "price": 9500.00,
-    "image": "images/bandeja desayuno.jpg"
+    "image": "images/bandeja_desayuno.jpg"
   }
 ]
