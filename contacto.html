@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Contacto</title>
+</head>
+<body>
+    <main>
+        <section class="hero">
+            <div class="volver-a-tienda">
+                <a href="index.html">Volver</a>
+            </div>
+            <h1>Formulario de Contacto</h1>
+            <br>
+        <div class="contenedor-contacto">
+            <!-- modify this form HTML and place wherever you want your form -->
+            <form
+                action="https://formspree.io/f/mdkznobd"
+                method="POST"
+                >
+                <label>
+                    Nombre:
+                    <input type="text" name="name">
+                </label><br><br>
+                <label>
+                    Teléfono:
+                    <input type="text" name="phone">
+                </label><br><br>
+                <label>
+                    Email:
+                    <input type="email" name="email">
+                </label><br><br>
+                <label>
+                    Mensaje:
+                    <textarea name="message" cols="37" rows="5"></textarea>
+                </label>
+                <!-- your other form fields go here -->
+                <button type="submit" class="boton">Enviar</button>
+            </form>
+        </div>
+    </main>
+    <footer>
+        <div class="pie">
+            <h6 class="pie-text">Copyright ARIBOX © Packaging - 2025. Todos los derechos reservados.</h6>
+        </div>
+    </footer>
+</body>
+</html>

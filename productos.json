@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Caja Pizza Grande",
+    "description": "Caja de Carton Microcorrugada para Pizza - Pack x 50 unidades",
+    "price": 12445.00,
+    "image": "/images/pizza grande.png"
+  },
+  {
+    "id": "2",
+    "name": "Caja Empanadas",
+    "description": "Caja de Cartón Microcorrugadas para Empanadas - Pack x 50 unidades",
+    "price": 8500.00,
+    "image": "/images/empanadas.png"
+  },
+  {
+    "id": "3",
+    "name": "Posavasos Alto",
+    "description": "Portavasos Alto papel Kraft - Pack x 100 Alto papel Kraft - Pack x 100 unidades",
+    "price": 12400.00,
+    "image": "/images/posavasos.png"
+  },
+  {
+    "id": "4",
+    "name": "Bolsa Kraft",
+    "description": "Bolsa Delivery Kraft - Pack x 50 unidades",
+    "price": 26800.00,
+    "image": "/images/bolsa kraft.png"
+  },
+  {
+    "id": "5",
+    "name": "Caja Huevos",
+    "description": "Caja para Huevos 18 unidades - pack x 25 unidades",
+    "price": 11500.00,
+    "image": "/images/caja-para-huevo-18-piezas.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Bandeja Desayuno",
+    "description": "Bandeja para desayuno - pack x 25 unidades",
+    "price": 9500.00,
+    "image": "/images/bandeja desayuno.jpg"
+  }
+]
