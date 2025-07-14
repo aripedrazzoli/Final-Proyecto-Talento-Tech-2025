@@ -11,14 +11,14 @@
     "name": "Caja Empanadas",
     "description": "Caja de Cartón Microcorrugadas para Empanadas - Pack x 50 unidades",
     "price": 8500.00,
-    "image": "images/Empanadas.png"
+    "image": "images/empanadas2.png"
   },
   {
     "id": "3",
     "name": "Posavasos Alto",
     "description": "Portavasos Alto papel Kraft - Pack x 100 Alto papel Kraft - Pack x 100 unidades",
     "price": 12400.00,
-    "image": "images/PosaVasos.png"
+    "image": "images/posavasos2.png"
   },
   {
     "id": "4",
